@@ -14,4 +14,4 @@ This version allows users to enhance their gaming expeiorence without hindering 
 - Certain Version of WindDeck OS has no anti virus for the performance jockies (We recommend not to login to websites you use on a daily basis on these versions)
 
 ## NOTE: ## 
-for now only windows 10 (no Antiviurs installed) is available we are working on other variants and we are going to do windows 11
+For now only Windows 10 Home (no Antiviurs installed) is available we are working on other variants and we are going to do windows 11
