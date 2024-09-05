@@ -1,10 +1,10 @@
-# WinDeck OS OLED
+v# WinDeck OS OLED
 ### This is in W.I.P (Work-In-Progress) so the readme is not done & the OS is currently being built! ###
 
 ## Welcome to WinDeck OS for the Steam Deck OLED ##
 
 WinDeck OS OLED is NOT spin off from the original https://github.com/Minibattle/WinDeckOS this version of Windows is built exclusively fdor the Steam Deck OLED models and not to be installed on LCD models.
-This version allows users to enchance their gaming expeiorence without hindering performance but improve it.
+This version allows users to enhance their gaming expeiorence without hindering performance but improve it.
 
 ## Features: ##
 - Includes all OEM OLED drivers baked in including the new audio driver for the steam deck oleds built in speakers
