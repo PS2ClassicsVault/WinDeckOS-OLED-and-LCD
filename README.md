@@ -10,7 +10,7 @@ This version allows users to enhance their gaming expeiorence without hindering 
 - Includes all OEM OLED drivers baked in including the new audio driver for the steam deck oleds built in speakers
 - Optimized for low latancy and low resource usage
 - OneDrive support is disabled out of the box no more installing the desktop & other folders to the cloud
-- Microsoft Accounts can be optionally added and no longer a required feature (requires local account setup)
 - Control Panel & This PC pre-configured to remain as permanent desktop icons for easy access & much more
 - Certain Version of WindDeck OS has no anti virus for the performance jockies (We recommend not to login to websites you use on a daily basis on these versions)
 
+NOTE: for now only windows 10 (no Antiviurs installed) is available we are working on other variants and we are going to do windows 11
