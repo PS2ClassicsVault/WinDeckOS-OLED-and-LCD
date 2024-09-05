@@ -12,4 +12,5 @@ This version allows users to enhance their gaming expeiorence without hindering 
 - OneDrive support is disabled out of the box no more installing the desktop & other folders to the cloud
 - Microsoft Accounts can be optionally added and no longer a required feature (requires local account setup)
 - Control Panel & This PC pre-configured to remain as permanent desktop icons for easy access & much more
+- Certain Version of WindDeck OS has no anti virus for the performance jockies (We recommend not to login to websites you use on a daily basis on these versions)
 
