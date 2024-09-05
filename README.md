@@ -15,3 +15,6 @@ This version allows users to enhance their gaming expeiorence without hindering 
 
 ## NOTE: ## 
 For now only Windows 10 Home (no Antiviurs installed) is available we are working on other variants and we are going to do windows 11
+
+## DOWNLOAD ##
+https://github.com/PS2ClassicsVault/WinDeckOS-OLED/releases
