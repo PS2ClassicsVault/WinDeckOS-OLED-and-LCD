@@ -1,5 +1,5 @@
 # WinDeck OS OLED
-### This is in W.I.P (Work-In-Progress) so the readme is not done & the OS is currently being built! ###
+### This is in W.I.P (Work-In-Progress ###
 
 ## Welcome to WinDeck OS for the Steam Deck OLED ##
 
