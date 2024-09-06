@@ -14,6 +14,9 @@ This version allows users to enhance their gaming expeiorence without hindering 
 - Certain Version of WindDeck OS has no anti virus for the performance jockies (We recommend not to login to websites you use on a daily basis on these versions)
 - Windows Update disabled out of the box
 
+## SECURITY WARNING ##
+These versions of windows, do not have the latest security updates installed, however if you wish to install them you can either wait till we implement them or install them yourself, we disabled windows update to prevent windows tweaks from being reversed, this does not mean your unprotected each new release will get an update to ensure it's secured!
+
 
 ## DOWNLOAD ##
 https://github.com/PS2ClassicsVault/WinDeckOS-OLED/releases
