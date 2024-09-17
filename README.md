@@ -15,7 +15,7 @@ This version allows users to enhance their gaming expeiorence without hindering 
 - Windows Update disabled out of the box (Win11 Only)
 
 ## SECURITY WARNING ##
-These versions of windows, do not have the latest security updates installed, however if you wish to install them you can either wait till we implement them or install them yourself, we disabled windows update to prevent windows tweaks from being reversed, this does not mean your unprotected each new release will get an update to ensure it's secured!
+Windows 11, does not have the fuiture latest security updates installed beyond when the OS was built, however if you wish to install them you can either wait till we implement them or install them yourself, we disabled windows update to prevent windows tweaks from being reversed, this does not mean your unprotected each new release will get an update to ensure it's secured, we will be fixing this in the future!
 
 
 ## DOWNLOAD ##
