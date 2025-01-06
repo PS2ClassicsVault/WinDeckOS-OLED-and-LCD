@@ -12,7 +12,7 @@ This version allows users to enhance their gaming expeiorence without hindering 
 - Optimized for low latancy and low resource usage
 - OneDrive support is disabled out of the box no more installing the desktop & other folders to the cloud
 - Control Panel & This PC pre-configured to remain as permanent desktop icons for easy access & much more
-- Certain Version of WindDeck OS has no anti virus for the performance jockies (We recommend not to login to websites you use on a daily basis on these versions)
+- Windows Security Center Enabled!
 - Windows Update is not disabled, however will check for updates, but not download them or imstall them unless you decide to!
 - Mocrosoft Account Functionality but not a requirement (can be added manually after windows setup is completed if you still need use microsoft services)
 - OS comes browserless, means Microsoft Edge is gone, be sure to bring your own flavor to the table.
