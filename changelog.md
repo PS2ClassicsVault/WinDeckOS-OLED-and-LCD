@@ -16,7 +16,7 @@
 - Smart App Control (SAC) is now disabled by default
 
 # WinDeck 11 Home Edition | Changelog:
-This release is the same release as the LTSC version
+This release is the same release as the LTSC version, with similar fixes and changes.
 
 ## Version v1.0.6
 - Fixed a bug where Dolby Atomos would bug out and cause the speakers to sound terrible.
