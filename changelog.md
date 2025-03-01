@@ -15,7 +15,7 @@
 - Sticky keys are now disabled by default.
 - Smart App Control (SAC) is now disabled by default
 
-# WinDeck 11 Home Edition | Chsngelog:
+# WinDeck 11 Home Edition | Changelog:
 This release is the same release as the LTSC version
 
 ## Version v1.0.6
