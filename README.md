@@ -1,7 +1,7 @@
 # WinDeck OS OLED
-The Only OS you need for your Steam Deck OLED!
+The Only OS you need for your Steam Deck OLED & LCD!
 
-## Welcome to WinDeck OS for the Steam Deck OLED
+## Welcome to WinDeck OS for the Steam Deck OLED & LCD
 
 WinDeck OS OLED is NOT spin off from the original https://github.com/Minibattle/WinDeckOS this version of Windows is built exclusively for the Steam Deck OLED models and not to be installed on LCD models.
 
