@@ -9,6 +9,8 @@ This changelog will no longer include the LTSC version of this OS as Home will b
 - Added google drive to context menu this can help back up game saves or any docs to your google account insead of using onedrive (will not be added to navigation panel) if google drive is installed!
 - Removed Onedrive from the navigation panel when it's installed by end user
 
+NOTE: Steam Deck Tools seems to break the trackpad making it feel like its stuck, its recommended to use steam input or HC.
+
 ## Version v1.0.6
 - Fixed a bug where Dolby Atomos would bug out and cause the speakers to sound terrible.
 - Fixed a bug where users using a type c to hdmi dongle or dock would have issues displaying video out on a TV/Monitor setup.
