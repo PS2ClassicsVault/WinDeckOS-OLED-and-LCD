@@ -1,22 +1,14 @@
-# WinDeck 11 LTSC Edition | Changelog
+# Changelog(s):
+This changelog will no longer include the LTSC version of this OS as Home will be the primary version of this project!
 
-## Version: v1.0.5
-- Removed the 260 character path limit
-- Windows 10 Classic context menu has been added
-- Added Windows Terminal
-- Added App Installer (winget) (Used for Microsoft Store, Xbox App, & Decky Loader Windows)
-- Disabled windows background blur by default
-- Enabled windows 11 new bootanimation screen
-
-## Version: v1.0.4
-- Disabled all event viewer logging channels to free more resources
-- Copy dialog will now show more details by default
-- Fixed an issue from v1.0.3 build where user had to manually insert the activation key, user just needs to activate via command prompt instructed in the release.
-- Sticky keys are now disabled by default.
-- Smart App Control (SAC) is now disabled by default
-
-# WinDeck 11 Home Edition | Changelog:
-This release is the same release as the LTSC version, with similar fixes and changes.
+## Version v1.0.7 (Changes subject to change before public release):
+- Added Ultimate Performance, Power Save and High Performance plan to control panel
+- Fixed an issue where window UI would look blurry.
+- Set Mouse delay to 0ms
+- Disabled Event viewer entirely to free up resource usage
+- Removed Recall from windows features.
+- Disabled windows search indexing
+- Set windows to tablet mode
 
 ## Version v1.0.6
 - Fixed a bug where Dolby Atomos would bug out and cause the speakers to sound terrible.
