@@ -1,14 +1,13 @@
 # Changelog(s):
 This changelog will no longer include the LTSC version of this OS as Home will be the primary version of this project!
 
-## Version v1.0.7 (Changes subject to change before public release):
-- Added Ultimate Performance, Power Save and High Performance plan to control panel
+## Version v1.0.7 (Changes subject to change before public release)
 - Fixed an issue where window UI would look blurry.
-- Set Mouse delay to 0ms
 - Disabled Event viewer entirely to free up resource usage
 - Removed Recall from windows features.
 - Disabled windows search indexing
-- Set windows to tablet mode
+- Added google drive to context menu this can help back up game saves or any docs to your google account insead of using onedrive (will not be added to navigation panel) if google drive is installed!
+- Removed Onedrive from the navigation panel when it's installed by end user
 
 ## Version v1.0.6
 - Fixed a bug where Dolby Atomos would bug out and cause the speakers to sound terrible.
