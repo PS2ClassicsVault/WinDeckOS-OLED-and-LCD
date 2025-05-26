@@ -9,7 +9,7 @@ This changelog will no longer include the LTSC version of this OS as Home will b
 - Set mouse speed from 10% to 15% this should help with mouse to area ratio.
 - In About system linked the support page to our issue tab instead of steams steam deck support.
 - In About system added time we are available to respond to support requests.
-- Set Compact OS to false this caused OS.to load compressed system files slower then uncompressed system files.
+- Set Compact OS to false this caused OS to load compressed system files slower then uncompressed system files.
 
 
 ## Version v1.0.7
