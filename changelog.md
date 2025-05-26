@@ -2,7 +2,7 @@
 This changelog will no longer include the LTSC version of this OS as Home will be the primary version of this project!
 
 ## Version v1.0.8 (Changes are subject to change before public release):
-- Touch Keyboard will now open when end user tap a field that requires user to use ankeyboard to type works similar to the ROG Ally keyboard (This will interfere if you utilize steam input)
+- Touch Keyboard will now open when end user tap a field that requires user to use ankeyboard to type works similar to the ROG Ally keyboard, you no longer need to manually enable to open when no keyboard is attached (This will interfere if you utilize steam input)
 - Fixed an issue where mouse would feel not smooth enough this update fixes that.
 - Disabled more services and disabled let app work in the background to free up resources.
 - AMD cpu processor core will now boot upon windows boot instead on windows login.
