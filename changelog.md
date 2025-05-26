@@ -10,6 +10,7 @@ This changelog will no longer include the LTSC version of this OS as Home will b
 - In About system linked the support page to our issue tab instead of steams steam deck support.
 - In About system added time we are available to respond to support requests.
 - Set Compact OS to false this caused OS to load compressed system files slower then uncompressed system files.
+- Fixed an issue with the touch keyboard on initial setup where it would feel there was no input register when user is setting up windows for the first time and had to press multiple times or press harder for input to register.
 
 
 ## Version v1.0.7
