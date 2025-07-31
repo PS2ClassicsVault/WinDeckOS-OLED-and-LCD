@@ -1,7 +1,7 @@
 # Changelog(s):
 This changelog will no longer include the LTSC version of this OS as Home will be the primary version of this project!
 
-## VersionL v1.0.9
+## Version v1.0.9
 - Improved GPU/UI Performance.
 - Added gamepad configuration to ther OSK so you can use the Steam Deck's on-board gamepad controls with it (requires HC or Steam Deck Tools to work).
 - Updated build with latest updates needed for windows update to install updates correctly.
