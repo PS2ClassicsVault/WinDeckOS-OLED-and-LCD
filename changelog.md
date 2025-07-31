@@ -5,7 +5,7 @@ This changelog will no longer include the LTSC version of this OS as Home will b
 - Improved GPU/UI Performance.
 - Added gamepad configuration to ther OSK so you can use the Steam Deck's on-board gamepad controls with it (requires HC or Steam Deck Tools to work).
 - Updated build with latest updates needed for windows update to install updates correctly.
-- Added `Ultimate Performance Power Plan` and se tit as default.
+- Added `Ultimate Performance Power Plan` and set it as default.
 - Fixed an issue where OSK would feel sluggish when used or used for the first time.
 - build can now install on both OLED & LCD models
 
