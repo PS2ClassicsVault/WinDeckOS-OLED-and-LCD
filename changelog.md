@@ -1,6 +1,14 @@
 # Changelog(s):
 This changelog will no longer include the LTSC version of this OS as Home will be the primary version of this project!
 
+## VersionL v1.0.9
+- Improved GPU/UI Performance.
+- Added gamepad configuration to ther OSK so you can use the Steam Deck's on-board gamepad controls with it (requires HC or Steam Deck Tools to work).
+- Updated build with latest updates needed for windows update to install updates correctly.
+- Added `Ultimate Performance Power Plan` and se tit as default.
+- Fixed an issue where OSK would feel sluggish when used or used for the first time.
+- build can now install on both OLED & LCD models
+
 ## Version v1.0.8
 - Touch Keyboard will now open when end user taps a field that requires user to use a keyboard to type works similar to the ROG Ally keyboard, you no longer need to manually enable to open when no keyboard is attached (This will interfere if you utilize steam input)
 - Fixed an issue where mouse would feel not smooth enough this update fixes that.
